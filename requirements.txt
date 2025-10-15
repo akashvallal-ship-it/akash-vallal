@@ -1,0 +1,11 @@
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pydantic>=2.0.0
+GitPython>=3.1.0
+markdown>=3.3.0
+mistune>=2.0.0
+sqlalchemy
+psycopg2-binary
+docker
+autogen-agentchat
+autogen-ext[openai]
