@@ -3,4 +3,4 @@ def test_addition():
 
 class TestMath:
     def test_subtraction(self):
-        assert 5 * 3 == 2
+        assert 5 * 3 == 15
